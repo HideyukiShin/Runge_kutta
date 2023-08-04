@@ -1,6 +1,6 @@
 # RUNGE_KUTTA
 Eigen is required
-  method
-    Runge_kutta.run()
-    Runge_kutta.draw()
-    Runge_kutta.draw_state()
+  method <br>
+    Runge_kutta.run() <br>
+    Runge_kutta.draw() <br>
+    Runge_kutta.draw_state() 
