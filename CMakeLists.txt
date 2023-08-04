@@ -9,8 +9,6 @@ add_executable(
   test.cpp
 )
 
-message("${Eigen3_INCLUDE_DIRS}")
-
 target_include_directories(
   test PRIVATE
   ${matplotlib_cpp_INCLUDE_DIRS}
